@@ -1,3 +1,6 @@
+body {
+    background-color: lightgray;
+}
 
 #main {
     text-align: center;
@@ -5,6 +8,13 @@
     background-color: lightseagreen;
     font-family: 'Lato', sans-serif;
     margin: 30px 8px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+
+#title {
+    margin-top: 50px;
+    padding-top: 20px;
 }
 
 #img-div {
@@ -27,11 +37,12 @@ a {
     border-radius: 25px;
     text-decoration: none;
     color: white;
-    margin-bottom: 20px;
+    margin-top: -10px;
 }
 
 #img-caption {
     font-style: italic;
+    font-weight: 100 !important;
 }
 
 #tribute-info {
