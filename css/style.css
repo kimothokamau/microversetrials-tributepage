@@ -1,3 +1,22 @@
+
+#main {
+    text-align: center;
+    font-size: 16px;
+    background-color: lightseagreen;
+    font-family: 'Lato', sans-serifxx;
+}
+
+#img-div {
+    max-width: 100%;
+    padding: 10px;
+    margin: 0;
+}
+
+
 #image {
     max-width: 100%;
+    margin:auto;
+    display: block;
 }
+
+
