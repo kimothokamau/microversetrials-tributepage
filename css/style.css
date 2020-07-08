@@ -19,4 +19,11 @@
     display: block;
 }
 
+a {
+    padding: 10px 15px;
+    background-color: darkslategray;
+    border-radius: 25px;
+    text-decoration: none;
+    color: white;
+}
 
