@@ -3,7 +3,8 @@
     text-align: center;
     font-size: 16px;
     background-color: lightseagreen;
-    font-family: 'Lato', sans-serifxx;
+    font-family: 'Lato', sans-serif;
+    margin: 30px 8px;
 }
 
 #img-div {
@@ -20,10 +21,35 @@
 }
 
 a {
+
     padding: 10px 15px;
     background-color: darkslategray;
     border-radius: 25px;
     text-decoration: none;
     color: white;
+    margin-bottom: 20px;
 }
+
+#img-caption {
+    font-style: italic;
+}
+
+#tribute-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    display: block;
+
+}
+
+li {
+    margin: 16px 0;
+}
+
 
